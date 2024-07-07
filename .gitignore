@@ -1,1 +1,15 @@
-.vscode/
+# Directorios y archivos generados por IntelliJ IDEA
+.idea/
+*.iml
+/target/
+/out/
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+application.properties
+.env
+
+maven-wrapper.jar
